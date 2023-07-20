@@ -8,4 +8,19 @@ In these notes, I tried to draw from my own personal and professional experience
 
 The specialization is estimated to take about 40 hours to learn, and Coursera breaks it up into three four week chunks, not counting the introduction to AWS, which I had already taken.
 
-I have made some personal anotations for myself through the comments feature of Google Colab, which I do not believe will transfer through into github. In general hope to use this as a study guide, and I've encouraged friends and family members to also take the class, and hopefully form study groups so we can all work together to better understand the subject and incorporate it into our lives. Others are welcome to use these notes as they see fit.
+I have made some personal anotations for myself through the comments feature of Google Colab, which I do not believe will transfer through into github. Others are welcome to use these notes as they see fit.
+
+
+## AWS Specific Services Discussed in this Course:
+
+General:
+
+* S3
+* IAM
+
+Specific:
+
+* CodeCommit
+* CodeBuild
+* Code Pipeline
+* CodeDeploy
