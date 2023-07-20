@@ -8,7 +8,7 @@ In these notes, I tried to draw from my own personal and professional experience
 
 The specialization is estimated to take about 40 hours to learn, and Coursera breaks it up into three four week chunks, not counting the introduction to AWS, which I had already taken.
 
-I have made some personal anotations for myself through the comments feature of Google Colab, which I do not believe will transfer through into github. Others are welcome to use these notes as they see fit.
+I have made some personal anotations for myself through the comments feature of Google Colab, which I do not believe will transfer through into github. Others are welcome to use these notes as they see fit. None of the Code pieces will actually Run, since they are generally various yaml and other types of configuration files that I've copied the contents of as examples.
 
 
 ## AWS Specific Services Discussed in this Course:
