@@ -24,3 +24,4 @@ Specific:
 * CodeBuild
 * Code Pipeline
 * CodeDeploy
+* CloudFormation
